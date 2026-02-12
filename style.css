@@ -122,11 +122,6 @@ nav a:hover {
     box-shadow: 5px 5px 0px rgba(0,0,0,0.2);
 }
 
-.trigger:hover + .secret-box, 
-.trigger:hover .secret-box {
-    display: block; 
-}
-
 
 /* 6. EFFETS SPÉCIAUX */
 ::-webkit-scrollbar {
